@@ -10,7 +10,7 @@ Consigna 2: Procesamiento de listas de palabras
 Ambos ejercicios están implementados en archivos separados, siguiendo el formato requerido por la evaluación.
 
 ---
-## 🧩 Consigna 1 – Gestión de empleados
+## Consigna 1 – Gestión de empleados
 
 ✔ Funcionalidades solicitadas
 
@@ -35,7 +35,7 @@ obtener_empleado_sueldo_max(sueldos, nombres)
 ordenar_por_sueldo(nombres, sueldos)
 
 ---
-## 🧩 Consigna 2 – Procesamiento de palabras
+## Consigna 2 – Procesamiento de palabras
 
 ✔ Funcionalidades solicitadas
 
@@ -56,7 +56,7 @@ encontrar_palabras_con_letra(palabras, letra)
 ordenar_palabras_longitud(palabras)
 
 ---
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 Python 3.x
 
